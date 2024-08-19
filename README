@@ -1,5 +1,5 @@
 # Stock Analysis ans Price Prediction
-# Group Project EE20B132 
+# Group Project EE21b041 
 Brief about the working of the code- 
 • The tool can filter for stocks matching Benjamin Graham's seven criteria to identify strong value stocks
 • Data of the publicly traded companies are extracted using the BeautifulSoup4 library and script uses the ArgumentParser to define subcommands that can be executed from the command line. 
